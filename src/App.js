@@ -12,7 +12,7 @@ const App = () => {
   <div style={{width: "1000px",margin: "0 auto"}}>
       <Signup/> 
     </div></Provider>
-    </>
+  </>
 }
 
 export default App;
